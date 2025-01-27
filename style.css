@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+.item{
+    width: 100%;
+    background-color: red;
+    border-radius: 30px;
+    padding: 20px;
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.button1{
+    background-color: black;
+    position: absolute;
+    left: 1050px;
+    bottom: 400px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.addcolor{
+    background-color: black;
+}
+.img2{
+    display: none;
+}
